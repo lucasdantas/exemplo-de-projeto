@@ -1,0 +1,1 @@
+Esse é um projeto para testar as habilidades dos estudantes do 3o ano do IFRN em Git e GitHub
